@@ -1,0 +1,320 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=4 insize=1894 outsize=3310 ok=1
+Cmd: disassembleShader
+  api=4 insize=2114 outsize=3657 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1564 outsize=2114 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=2114 outsize=3657 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1564 outsize=2126 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=2126 outsize=3680 ok=1
+Cmd: disassembleShader
+  api=4 insize=2222 outsize=3813 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1564 outsize=2222 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=2222 outsize=3813 ok=1
+Cmd: disassembleShader
+  api=4 insize=2234 outsize=3836 ok=1
+Cmd: disassembleShader
+  api=4 insize=1638 outsize=2982 ok=1
+Cmd: disassembleShader
+  api=4 insize=1638 outsize=2982 ok=1
+Cmd: disassembleShader
+  api=4 insize=3106 outsize=4953 ok=1
+Cmd: disassembleShader
+  api=4 insize=2746 outsize=4495 ok=1
+Cmd: disassembleShader
+  api=4 insize=2114 outsize=3657 ok=1
+Cmd: disassembleShader
+  api=4 insize=2126 outsize=3622 ok=1
+Cmd: disassembleShader
+  api=4 insize=2854 outsize=4651 ok=1
+Cmd: disassembleShader
+  api=4 insize=2854 outsize=4651 ok=1
+Cmd: disassembleShader
+  api=4 insize=2222 outsize=3813 ok=1
+Cmd: disassembleShader
+  api=4 insize=1638 outsize=2982 ok=1
+Cmd: disassembleShader
+  api=4 insize=1638 outsize=2982 ok=1
+Cmd: disassembleShader
+  api=4 insize=5590 outsize=7905 ok=1
+Cmd: disassembleShader
+  api=4 insize=6962 outsize=9854 ok=1
+Cmd: disassembleShader
+  api=4 insize=6110 outsize=8671 ok=1
+Cmd: disassembleShader
+  api=4 insize=5386 outsize=7697 ok=1
+Cmd: disassembleShader
+  api=4 insize=7278 outsize=10358 ok=1
+Cmd: disassembleShader
+  api=4 insize=6782 outsize=9606 ok=1
+Cmd: disassembleShader
+  api=4 insize=5738 outsize=8186 ok=1
+Cmd: disassembleShader
+  api=4 insize=5726 outsize=8183 ok=1
+Cmd: disassembleShader
+  api=4 insize=6522 outsize=9282 ok=1
+Cmd: disassembleShader
+  api=4 insize=6070 outsize=8571 ok=1
+Cmd: disassembleShader
+  api=4 insize=7582 outsize=10752 ok=1
+Cmd: disassembleShader
+  api=4 insize=7234 outsize=10226 ok=1
+Cmd: disassembleShader
+  api=4 insize=6894 outsize=9822 ok=1
+Cmd: disassembleShader
+  api=4 insize=6618 outsize=9443 ok=1
+Cmd: disassembleShader
+  api=4 insize=6502 outsize=9255 ok=1
+Cmd: disassembleShader
+  api=4 insize=6182 outsize=8817 ok=1
+Cmd: disassembleShader
+  api=4 insize=5806 outsize=8271 ok=1
+Cmd: disassembleShader
+  api=4 insize=7634 outsize=10845 ok=1
+Cmd: disassembleShader
+  api=4 insize=7358 outsize=10466 ok=1
+Cmd: disassembleShader
+  api=4 insize=6350 outsize=9109 ok=1
+Cmd: disassembleShader
+  api=4 insize=6258 outsize=8927 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1564 outsize=6366 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=6366 outsize=9130 ok=1
+Cmd: disassembleShader
+  api=4 insize=1690 outsize=3080 ok=1
+Cmd: disassembleShader
+  api=4 insize=1918 outsize=3405 ok=1
+Cmd: disassembleShader
+  api=4 insize=1918 outsize=3420 ok=1
+Cmd: disassembleShader
+  api=4 insize=2054 outsize=3594 ok=1
+Cmd: disassembleShader
+  api=4 insize=2298 outsize=3894 ok=1
+Cmd: disassembleShader
+  api=4 insize=1918 outsize=3410 ok=1
+Cmd: disassembleShader
+  api=4 insize=1918 outsize=3410 ok=1
+Cmd: disassembleShader
+  api=4 insize=3454 outsize=5060 ok=1
+Cmd: disassembleShader
+  api=4 insize=4226 outsize=6250 ok=1
+Cmd: disassembleShader
+  api=4 insize=3638 outsize=5392 ok=1
+Cmd: disassembleShader
+  api=4 insize=6194 outsize=8863 ok=1
+Cmd: disassembleShader
+  api=4 insize=4206 outsize=6170 ok=1
+Cmd: disassembleShader
+  api=4 insize=5434 outsize=7826 ok=1
+Cmd: disassembleShader
+  api=4 insize=4734 outsize=6777 ok=1
+Cmd: disassembleShader
+  api=4 insize=3818 outsize=5594 ok=1
+Cmd: disassembleShader
+  api=4 insize=1418 outsize=2358 ok=1
+Cmd: disassembleShader
+  api=4 insize=714 outsize=1505 ok=1
+Cmd: disassembleShader
+  api=4 insize=2166 outsize=3621 ok=1
+Cmd: disassembleShader
+  api=4 insize=2026 outsize=3510 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=2038 outsize=3533 ok=1
+Cmd: disassembleShader
+  api=4 insize=1930 outsize=3319 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1520 outsize=1550 kw=UNITY_PASS_DEFERRED _EMISSION UNITY_HDR_ON _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=1550 outsize=2835 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=2038 outsize=3533 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=1990 outsize=3418 ok=1
+Cmd: disassembleShader
+  api=4 insize=1550 outsize=2835 ok=1
+Cmd: disassembleShader
+  api=4 insize=2618 outsize=4649 ok=1
+Cmd: disassembleShader
+  api=4 insize=1754 outsize=3370 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1520 outsize=1782 kw=UNITY_PASS_DEFERRED DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_ON _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=1782 outsize=3406 ok=1
+Cmd: disassembleShader
+  api=4 insize=2494 outsize=4514 ok=1
+Cmd: disassembleShader
+  api=4 insize=1974 outsize=3702 ok=1
+Cmd: disassembleShader
+  api=4 insize=1206 outsize=2568 ok=1
+Cmd: disassembleShader
+  api=4 insize=2882 outsize=5004 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1520 outsize=2622 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION UNITY_HDR_ON _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=2622 outsize=4658 ok=1
+Cmd: disassembleShader
+  api=4 insize=1950 outsize=3675 ok=1
+Cmd: disassembleShader
+  api=4 insize=3438 outsize=5778 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1520 outsize=3178 kw=UNITY_PASS_DEFERRED LIGHTMAP_ON DIRLIGHTMAP_COMBINED LIGHTPROBE_SH _EMISSION UNITY_HDR_ON _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=3178 outsize=5432 ok=1
+Cmd: disassembleShader
+  api=4 insize=1714 outsize=3071 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1368 outsize=2334 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=2334 outsize=3950 ok=1
+Cmd: disassembleShader
+  api=4 insize=3430 outsize=5394 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1368 outsize=3070 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL LIGHTPROBE_SH _EMISSION VERTEXLIGHT_ON _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=3070 outsize=4936 ok=1
+Cmd: disassembleShader
+  api=4 insize=2798 outsize=4645 ok=1
+Cmd: disassembleShader
+  api=4 insize=6522 outsize=9282 ok=1
+Cmd: disassembleShader
+  api=4 insize=7294 outsize=10370 ok=1
+Cmd: disassembleShader
+  api=4 insize=7234 outsize=10226 ok=1
+Cmd: disassembleShader
+  api=4 insize=3098 outsize=5156 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1368 outsize=2842 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL _EMISSION _ALPHAPREMULTIPLY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: disassembleShader
+  api=4 insize=2842 outsize=4745 ok=1
+Cmd: disassembleShader
+  api=4 insize=2450 outsize=4077 ok=1
+Cmd: disassembleShader
+  api=4 insize=2070 outsize=3593 ok=1
+Cmd: disassembleShader
+  api=4 insize=1994 outsize=3494 ok=1
+Cmd: disassembleShader
+  api=4 insize=2070 outsize=3593 ok=1
+Cmd: disassembleShader
+  api=4 insize=2054 outsize=3594 ok=1
+Cmd: disassembleShader
+  api=4 insize=2070 outsize=3588 ok=1
+Cmd: disassembleShader
+  api=4 insize=2070 outsize=3588 ok=1
+Cmd: disassembleShader
+  api=4 insize=1954 outsize=3487 ok=1
+Cmd: disassembleShader
+  api=4 insize=2618 outsize=4537 ok=1
+Cmd: disassembleShader
+  api=4 insize=2242 outsize=3924 ok=1
+Cmd: disassembleShader
+  api=4 insize=4326 outsize=6326 ok=1
+Cmd: disassembleShader
+  api=4 insize=4270 outsize=6243 ok=1
+Cmd: disassembleShader
+  api=4 insize=2502 outsize=4258 ok=1
+Cmd: disassembleShader
+  api=4 insize=2270 outsize=3961 ok=1
+Cmd: disassembleShader
+  api=4 insize=1418 outsize=2358 ok=1
+Cmd: disassembleShader
+  api=4 insize=218 outsize=660 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
